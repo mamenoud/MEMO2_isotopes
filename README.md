@@ -16,8 +16,8 @@ Samples were taken in flexi foil bags, Tedlar bags, glass flasks or steel canist
 
 Variables:
 ---------------------
-*Source ID* Unique identifier
-*Date* dd/mm/yyyy
+* Source ID Unique identifier
+* Date dd/mm/yyyy
 *Time (UTC)*
 *Affiliation* MEMO2 beneficiaries involved in the data collection and processing
 *SNAP deduced/certain* emission category following the Selected Nomenclature for Air Pollution (EEA (European Environment Agency) (Feb. 2000). EMEP/CORINAIR Atmospheric emission inventory guidebook - Second edition 1999. Output from Annual Management Plan, p. 1750.) The "deduced" sources weere categorized afterwards based on the context and isotopic results, whereas the "certain" sources are when the emissions of this location were known beforehand
