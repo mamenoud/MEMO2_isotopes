@@ -16,10 +16,10 @@ Samples were taken in flexi foil bags, Tedlar bags, glass flasks or steel canist
 
 Variables:
 ---------------------
-Source ID -> Unique identifier
-Date -> dd/mm/yyyy
-Time (UTC) 
-Affiliation	-> MEMO2 beneficiaries involved in the data collection and processing
+...Source ID -> Unique identifier
+...Date -> dd/mm/yyyy
+...Time (UTC) 
+...Affiliation	-> MEMO2 beneficiaries involved in the data collection and processing
 SNAP deduced/certain	-> emission category following the Selected Nomenclature for Air Pollution (EEA (European Environment Agency) (Feb. 2000). EMEP/CORINAIR Atmospheric emission inventory guidebook - Second edition 1999. Output from Annual Management Plan, p. 1750.) The "deduced" sources weere categorized afterwards based on the context and isotopic results, whereas the "certain" sources are when the emissions of this location were known beforehand
 NFR code	-> emission categories used in UK inventories (https://naei.beis.gov.uk/glossary?view=nfr)
 Latitude & Longitude -> in decimals
@@ -48,7 +48,7 @@ Regression method -> Mass balance method and linear fit used to derive the sourc
 
 Authors:
 ---------------------
-Malika Menoud*, Julianne Fernandez, David Lowry**, Thomas Röckmann*
-* Institute for Marine and Atmospheric Research Utrecht, Utrecht University, The Netherlands
-** Royal Holloway University of London, Department of Earth Sciences, Egham, UK
+Malika Menoud^a, Julianne Fernandez^b, David Lowry^b, Thomas Röckmann^a
+a. Institute for Marine and Atmospheric Research Utrecht, Utrecht University, The Netherlands
+b. Royal Holloway University of London, Department of Earth Sciences, Egham, UK
 _Contact_ Malika Menoud, m.menoud@uu.nl
